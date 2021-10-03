@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ListaDeTarefas" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <!-- colorPrimary se refere a cor de fundo da barra de menu do app -->
+        <item name="colorPrimary">@color/black</item>
+    <!-- colorPrimaryDark se refere a cor de fundo da barra de status do app -->
+        <item name="android:colorPrimaryDark">@color/black</item>
+    <!-- colorSecondary se refere a cor do botão -->
+        <item name="colorSecondary">@color/black</item>
+    <!-- colorOnSecondary se refere a cor do botão pressionado-->
+        <item name="colorOnSecondary">@color/white</item>
+
+    </style>
+</resources>
